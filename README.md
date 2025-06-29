@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This project showcases who I am as a d
 
 ## 🚀 Live Preview
 
-Coming Soon... (You can deploy using [GitHub Pages](https://pages.github.com/) or [Netlify](https://www.netlify.com/)).
+Coming Soon... (You can deploy using [GitHub Pages]([https://pages.github.com/](https://sarath-490.github.io/Portfolio/)).
 
 ---
 
