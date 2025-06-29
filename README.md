@@ -8,7 +8,7 @@ Welcome to my personal portfolio website! This project showcases who I am as a d
 
 Visit the live site 👉 [sarath-490.github.io/Portfolio](https://sarath-490.github.io/Portfolio)
 
-
+--Not optimised for mobiles.
 ---
 
 ## 📂 Features
