@@ -2,9 +2,12 @@
 
 Welcome to my personal portfolio website! This project showcases who I am as a developer — including my skills, projects, certifications, and ways to connect. It's fully responsive, animated, and built with HTML, CSS, and JavaScript.
 
+
+
 ## 🚀 Live Preview
 
-visit [GitHub Pages]([(https://sarath-490.github.io/Portfolio/)]).
+Visit the live site 👉 [sarath-490.github.io/Portfolio](https://sarath-490.github.io/Portfolio)
+
 
 ---
 
